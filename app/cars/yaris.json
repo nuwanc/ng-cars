@@ -1,0 +1,11 @@
+{
+	"brand" : "Toyota",
+	"model" : "Yaris",
+	"year"	: 2013,
+	"engine": "1.3 L 2SZ-FE I4 (gasoline)",
+	"seats" : 5,
+	"images": [
+        "images/cars/yaris.png"
+    ]
+
+}

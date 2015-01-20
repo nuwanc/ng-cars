@@ -1,0 +1,66 @@
+[
+{
+	"brand" : "toyota",
+	"model"  : "corolla",
+	"year"  : 2013,
+	"name"  : "Toyota Corolla 2013",
+	"imageUrl" : "images/cars/corolla.png",
+	"description" : "Good Car",
+	"id"  : "corolla"
+},
+{
+	"brand" : "toyota",
+	"model"  : "camry",
+	"year"  : 2012,
+	"name"  : "Toyota Camry 2012",
+	"imageUrl" : "images/cars/camry.png",
+	"description" : "Good Car",
+	"id"  : "camry"
+},
+{
+	"brand" : "toyota",
+	"model"  : "aurion",
+	"year"  : 2012,
+	"name"  : "Toyota Aurion 2012",
+	"imageUrl" : "images/cars/aurion.png",
+	"description" : "Good Car",
+	"id"  : "aurion"
+},
+{
+	"brand" : "toyota",
+	"model"  : "hilux",
+	"year"  : 2012,
+	"name"  : "Toyota Hilux 2012",
+	"imageUrl" : "images/cars/hilux.png",
+	"description" : "Good Cab",
+	"id"  : "hilux"
+},
+{
+	"brand" : "toyota",
+	"model"  : "kluger",
+	"year"  : 2011,
+	"name"  : "Toyota Kluger 2011",
+	"imageUrl" : "images/cars/kluger.png",
+	"description" : "Good Car",
+	"id"  : "kluger"
+},
+{
+	"brand" : "toyota",
+	"model"  : "yaris",
+	"year"  : 2012,
+	"name"  : "Toyota Yaris 2012",
+	"imageUrl" : "images/cars/yaris.png",
+	"description" : "Good Car",
+	"id"  : "yaris"
+},
+{
+	"brand" : "toyota",
+	"model"  : "prius",
+	"year"  : 2012,
+	"name"  : "Toyota prius 2012",
+	"imageUrl" : "images/cars/prius.png",
+	"description" : "Good Car",
+	"id"  : "prius"
+}
+
+]

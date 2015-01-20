@@ -1,0 +1,11 @@
+<img ng-src="{{mainImageUrl}}" class="car">
+
+<h1>{{car.brand}}-{{car.model}}-{{car.year}}</h1>
+
+<p>Engine:{{car.engine}}</p>
+
+<ul class="car-thumbs">
+  <li ng-repeat="img in car.images">
+    <img ng-src="{{img}}" ng-click="setImage(img)">
+  </li>
+</ul>

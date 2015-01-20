@@ -1,0 +1,28 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-3">
+      <!--Sidebar content-->
+
+      Search: <input ng-model="query">
+      Sort by:
+      <select ng-model="orderProp">
+        <option value="brand">Brand-Alphabetical</option>
+        <option value="year">Newest</option>
+        <option value="model">Model-Alphabetical</option>
+      </select>
+
+    </div>
+    <div class="col-md-8">
+      <!--Body content-->
+
+      <ul class="cars">
+        <li ng-repeat="car in cars | filter:query | orderBy:orderProp:true" class="thumbnail">
+          <a href="#/cars/{{car.id}}" class="thumb"><img ng-src="{{car.imageUrl}}"></a>
+          <a href="#/cars/{{car.id}}">{{car.name}}</a>
+          <p>{{car.description}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>
