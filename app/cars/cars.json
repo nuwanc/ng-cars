@@ -61,6 +61,41 @@
 	"imageUrl" : "images/cars/prius.png",
 	"description" : "Good Car",
 	"id"  : "prius"
+},
+{
+	"brand" : "toyota",
+	"model"  : "fjcruiser",
+	"year"  : 2013,
+	"name"  : "Toyota FJ Cruiser 2012",
+	"imageUrl" : "images/cars/fjcruiser.png",
+	"description" : "Good SUV",
+	"id"  : "fjcruiser"
+},
+{
+	"brand" : "toyota",
+	"model"  : "landcruiser",
+	"year"  : 2013,
+	"name"  : "Toyota Land Cruiser 2012",
+	"imageUrl" : "images/cars/landcruiser.png",
+	"description" : "Good SUV",
+	"id"  : "landcruiser"
+},
+{
+	"brand" : "toyota",
+	"model"  : "prado",
+	"year"  : 2013,
+	"name"  : "Toyota Prado 2012",
+	"imageUrl" : "images/cars/prado.png",
+	"description" : "Good SUV",
+	"id"  : "prado"
+},
+{
+	"brand" : "toyota",
+	"model"  : "rav4",
+	"year"  : 2013,
+	"name"  : "Toyota Rav4 2012",
+	"imageUrl" : "images/cars/rav4.png",
+	"description" : "Good SUV",
+	"id"  : "rav4"
 }
-
 ]
